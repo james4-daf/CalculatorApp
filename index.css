@@ -1,0 +1,25 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+body {
+  background-color: hsl(185, 41%, 84%);
+}
+#spliter-background {
+  padding: 30px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 25px;
+}
+
+.title {
+  padding-top: 15%;
+  text-align: center;
+  padding-bottom: 5%;
+}
+#tipAmound-background {
+  background-color: hsl(183, 100%, 15%);
+  border-radius: 25px;
+}
