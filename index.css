@@ -6,10 +6,15 @@
   color: hsl(228, 45%, 44%);
 }
 body {
+  background-color: white;
+}
+#back-background {
   background-color: hsl(185, 41%, 84%);
+  padding: 15%;
+  /* padding: top 25px; */
 }
 #spliter-background {
-  padding: 30px;
+  padding: 50px;
   background-color: hsl(0, 0%, 100%);
   border-radius: 25px;
 }
@@ -20,6 +25,27 @@ body {
   padding-bottom: 5%;
 }
 #tipAmound-background {
+  padding-left: 6%;
   background-color: hsl(183, 100%, 15%);
   border-radius: 25px;
 }
+#reset-button {
+  bottom: 5em;
+}
+.tip-buttons button {
+  color: white;
+  background-color: hsl(183, 100%, 15%);
+  width: 2cm;
+}
+.tip-buttons button {
+  color: white;
+  background-color: hsl(183, 100%, 15%);
+  width: 2cm;
+}
+#custom-tip {
+  /* color: green;
+  background-color: green; */
+}
+/* .col-12.col-sm-6 {
+  column-gap: 5cm;
+} */
